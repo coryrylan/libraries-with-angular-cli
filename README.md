@@ -1,4 +1,10 @@
-# TsLib
+# Building JavaScript, TypeScript, and Web Component Libraries with the Angular CLI
+
+Example using TS lib in a vanilla ReactJS app:
+https://stackblitz.com/edit/react-txsvos 
+
+Example using a Web Component library in a vanilla JavaScript app
+https://stackblitz.com/edit/js-jw1sxv
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 

@@ -1,0 +1,7 @@
+{
+  "name": "@coryrylan/wc-example",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "lit-element": "^2.0.0-rc.2"
+  }
+}
